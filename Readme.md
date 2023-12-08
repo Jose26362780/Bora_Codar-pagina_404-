@@ -4,14 +4,14 @@ Esse é o bora codar numero 27 desafio Semanal da Rocketseat, codando uma  tela 
 
 ![preview](./.github/cover.png)
 
-👉🏼[Link do projeto]()
+👉🏼[Link do projeto](https://bora-codar-pagina-404.netlify.app/)
 
 
 #  💻🔧 Tecnologias
 
 - HTML
 - CSS
-- Responsividade
+- Responsividade mobile first
 - Git
 - Git Hub
 
